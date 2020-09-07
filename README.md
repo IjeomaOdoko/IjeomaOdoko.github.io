@@ -4,7 +4,7 @@ This Github Portfolio Page was created using a Bootstrap Theme by Start Boostrap
 
 Below are the key steps I took to create my GitHub page using the Bootstrap theme: 
 
-### 1. [Preview the Bootstrap theme here](https://startbootstrap.com/themes/stylish-portfolio/).
+### 1. [Preview the Bootstrap theme](https://startbootstrap.com/themes/stylish-portfolio/).
 
 ### 2. [Go the StartBootstrap Github Page for Stylish Portfolio](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio). Click on *Use this Template*.
   
