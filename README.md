@@ -6,7 +6,7 @@ Below are the key steps I took to create my GitHub page using the Bootstrap them
 
 ### 1. [Preview the Bootstrap theme](https://startbootstrap.com/themes/stylish-portfolio/).
 
-### 2. [Go the StartBootstrap Github Page for Stylish Portfolio](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio). Click on *Use this Template*.
+### 2. [Go to the StartBootstrap Github Page for Stylish Portfolio](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio). Click on *Use this Template*.
   
 ### 3. Create a new repository, name should match your *github user name*.github.io. 
 
