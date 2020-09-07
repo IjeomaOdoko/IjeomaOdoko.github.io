@@ -16,7 +16,7 @@ Below are the key steps I took to create my GitHub page using the Bootstrap them
 
 ### 6. Edit the files in the *CSS* folder to personalize the site. 
 
-### 7. Reference the existing icons available in the 'simple-line-icons' folder under the 'vendor' folder to edit the icons in the index.html file. 
+### 7. Reference the existing icons available in the *simple-line-icons* folder under the *vendor* folder to edit the icons in the *index.html* file. 
 
 Tips: CSS and HTML is not my area of expertise, so I relied heavily on this [Online HTML Editor](https://html-online.com/editor/) and [HTML Cheat Sheet](https://htmlcheatsheet.com/) to edit the HTML and CSS files. 
 
