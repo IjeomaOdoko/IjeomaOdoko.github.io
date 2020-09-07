@@ -1,8 +1,8 @@
 # [Ijeoma Odoko - Data Analyst/Engineer Portflio](https://ijeomaodoko.github.io/)
 
-This Github Porflio Page was created using a Bootstrap Theme by Start Boostrap LLC under the MIT License (MIT).
+This Github Portfolio Page was created using a Bootstrap Theme by Start Boostrap LLC under the MIT License (MIT).
 
-These are the key steps I took to create my github page using the Bootstrap theme. 
+Below are the key steps I took to create my GitHub page using the Bootstrap theme: 
 
 ### 1. [Preview the Bootstrap theme here](https://startbootstrap.com/themes/stylish-portfolio/).
 
