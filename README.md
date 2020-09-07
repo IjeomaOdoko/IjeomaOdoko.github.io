@@ -1,4 +1,4 @@
-# [Ijeoma Odoko - Data Analyst/Engineer Portflio](https://ijeomaodoko.github.io/)
+# [Ijeoma Odoko - Data Analyst/Engineer Portfolio](https://ijeomaodoko.github.io/)
 
 This Github Portfolio Page was created using a Bootstrap Theme by Start Boostrap LLC under the MIT License (MIT).
 
